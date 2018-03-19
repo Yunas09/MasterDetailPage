@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{94BA3405-8AC9-47A8-90B4-59DBF2D56EF0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailPageNavigation/XAML/TodoListPage.xaml">
+    <Files>
+      <File FileName="MasterDetailPageNavigation/CS/ContactsPageCS.cs" Line="1" Column="1" />
+      <File FileName="MasterDetailPageNavigation/CS/MasterPageCS.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="MasterDetailPageNavigation/MasterPageItem.cs" Line="1" Column="1" />
+      <File FileName="MasterDetailPageNavigation/App.cs" Line="1" Column="1" />
+      <File FileName="MasterDetailPageNavigation/packages.config" Line="1" Column="1" />
+      <File FileName="MasterDetailPageNavigation/XAML/ContactsPage.xaml" Line="12" Column="1" />
+      <File FileName="MasterDetailPageNavigation/XAML/MainPage.xaml" Line="17" Column="1" />
+      <File FileName="MasterDetailPageNavigation/XAML/MasterPage.xaml" Line="35" Column="1" />
+      <File FileName="MasterDetailPageNavigation/XAML/ReminderPage.xaml" Line="12" Column="1" />
+      <File FileName="MasterDetailPageNavigation/XAML/TodoListPage.xaml" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MasterDetailPageNavigation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.08293B96-0A88-43B2-B46D-7E5A893A2478" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MasterDetailPageNavigation.Droid PreferredExecutionTarget="Android.new_device" />
+</Properties>
